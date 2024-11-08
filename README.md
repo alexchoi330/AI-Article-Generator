@@ -1,5 +1,7 @@
 # AI-Article-Generator
 
+python
+Django
 HTML (for the main website)
 Tailwind css (for stylesheet css )
 
