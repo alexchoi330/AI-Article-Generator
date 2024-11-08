@@ -1,7 +1,9 @@
 # AI-Article-Generator
 
-python
-Django
+python for backend
+Django for backend
+postgresql for backend
+Qovery platform to manage backend database
 HTML (for the main website)
 Tailwind css (for stylesheet css )
 
